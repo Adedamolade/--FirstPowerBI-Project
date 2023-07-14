@@ -7,4 +7,11 @@ Business Questions:The Following are the Business questions to be answered using
 2. What is the pattern of sales over six years?
 3. What is the average daily quantity of drug sold?
 4. Which pharmaceutical drug achieved the highest sales performance each year?
-5. What drug category contribute most to the overall sales revenue? 
+5. What drug category contribute most to the overall sales revenue?
+6. # DATA PREPARATION AND ANALYSIS
+7. Dataset was cleaned by removing duplicates, correction of inconsistencies. Data was formatted to suitable format for analysis and visualization.
+8. Additional Features wer created to give more robustness to the Analysis
+9. Dimension Table for Date, Time and Drugs were created and connected to the fact tables to make meaningful active relationships for our Data Model
+10. # DATA VISUALIZATION
+11. ![Uploading 20230714_120627.jpg…]()
+
