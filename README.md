@@ -13,5 +13,8 @@ Business Questions:The Following are the Business questions to be answered using
 8. Additional Features wer created to give more robustness to the Analysis
 9. Dimension Table for Date, Time and Drugs were created and connected to the fact tables to make meaningful active relationships for our Data Model
 10. # DATA VISUALIZATION
-11. ![Uploading 20230714_120627.jpg…]()
+11. Appropriate Chart types were used to represent metrics and insights. Interactive features like Tool tips, Drill through were also used to make the Dashboard more interactive and user friendly.
+12. ![20230714_120627](https://github.com/Adedamolade/--FirstPowerBI-Project/assets/136019945/6b03b65a-177e-49ec-af86-5f6a594c18e7)
+
+
 
